@@ -12,6 +12,12 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+ iframe.instagram-media {
+    max-width: 100% !important;
+    width: 35% !important;
+    min-width: auto !important;
+}
 :root {
   --bs-blue: #5C8CB7;
   --bs-indigo: #6610f2;
